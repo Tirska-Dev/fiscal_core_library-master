@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<CHECK xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="check01.xsd">
+  <CHECKHEAD>
+    <DOCTYPE>0</DOCTYPE>
+    <DOCSUBTYPE>0</DOCSUBTYPE>
+    <UID>b17f37e0-cc85-4630-9da3-e96fe2871707</UID>
+    <TIN>34554363</TIN>
+    <IPN>123456789020</IPN>
+    <ORGNM>Тестовий платник 4</ORGNM>
+    <POINTNM>Магазин Іван-Тест</POINTNM>
+    <POINTADDR>УКРАЇНА, СУМСЬКА ОБЛ., М. СУМИ, вул. Соборна 1</POINTADDR>
+    <ORDERDATE>13082021</ORDERDATE>
+    <ORDERTIME>220146</ORDERTIME>
+    <ORDERNUM>13710</ORDERNUM>
+    <CASHDESKNUM>24</CASHDESKNUM>
+    <CASHREGISTERNUM>4000066879</CASHREGISTERNUM>
+    <CASHIER>Для РРО № 4000066879</CASHIER>
+    <COMMENT>Спасибо за Покупку!</COMMENT>
+    <VER>1</VER>
+    <ORDERTAXNUM>24052726</ORDERTAXNUM>
+  </CHECKHEAD>
+  <CHECKTOTAL>
+    <SUM>13357.39</SUM>
+    <DISCOUNTSUM>619.62</DISCOUNTSUM>
+  </CHECKTOTAL>
+  <CHECKPAY>
+    <ROW ROWNUM="1">
+      <PAYFORMCD>1</PAYFORMCD>
+      <PAYFORMNM>КАРТКА</PAYFORMNM>
+      <SUM>13357.39</SUM>
+      <!-- <PROVIDED>10000.00</PROVIDED>
+      <REMAINS>0.00</REMAINS> -->
+      <PAYSYS>
+        <ROW ROWNUM="1">
+          <NAME>VISA</NAME>
+          <ACQUIRENM>ОЩАДБАНК</ACQUIRENM>
+          <ACQUIRETRANSID>77777777777</ACQUIRETRANSID>
+          <POSTRANSDATE>01032021234653</POSTRANSDATE>
+          <POSTRANSNUM>9980</POSTRANSNUM>
+          <DEVICEID>S1K10078</DEVICEID>
+          <EPZDETAILS>XXXX XXXX XXXX 1234</EPZDETAILS>
+          <AUTHCD>842415</AUTHCD>
+        </ROW>
+      </PAYSYS>
+    </ROW>
+  </CHECKPAY>
+  <CHECKTAX>
+    <ROW ROWNUM="1">
+      <TYPE>0</TYPE>
+      <NAME>ПДВ</NAME>
+      <LETTER>A</LETTER>
+      <PRC>20.00</PRC>
+      <SIGN>false</SIGN>
+      <TURNOVER>13977.01</TURNOVER>
+      <SOURCESUM>13357.38</SOURCESUM>
+      <SUM>2226.23</SUM>
+    </ROW>
+  </CHECKTAX>
+  <CHECKBODY>
+    <ROW ROWNUM="1">
+      <CODE>108002302</CODE>
+      <BARCODE>108002302</BARCODE>
+      <NAME>Лінолеум TARKETT Idillia Nova Pascal-3 4.0м мат.</NAME>
+      <UNITCD>5</UNITCD>
+      <UNITNM>м2</UNITNM>
+      <AMOUNT>9.840</AMOUNT>
+      <PRICE>215.00</PRICE>
+      <LETTERS>A</LETTERS>
+      <COST>2115.60</COST>
+      <DISCOUNTSUM>317.34</DISCOUNTSUM>
+    </ROW>
+    <ROW ROWNUM="2">
+      <CODE>108002458</CODE>
+      <BARCODE>108002458</BARCODE>
+      <NAME>Лінолеум SINTEROS Комфорт Bengal-3 3.5м мат.</NAME>
+      <UNITCD>5</UNITCD>
+      <UNITNM>м2</UNITNM>
+      <AMOUNT>7.595</AMOUNT>
+      <PRICE>199.00</PRICE>
+      <LETTERS>A</LETTERS>
+      <COST>1511.41</COST>
+      <DISCOUNTSUM>302.28</DISCOUNTSUM>
+    </ROW>
+    <ROW ROWNUM="3">
+      <CODE>420006378</CODE>
+      <BARCODE>420006378</BARCODE>
+      <NAME>Ванна акр. SV PLAST Azur асиметр. 170*110см прав.+екран+ніжки</NAME>
+      <UNITCD>3</UNITCD>
+      <UNITNM>к-т</UNITNM>
+      <AMOUNT>1.000</AMOUNT>
+      <PRICE>7050.00</PRICE>
+      <LETTERS>A</LETTERS>
+      <COST>7050.00</COST>
+      <DISCOUNTSUM>0.00</DISCOUNTSUM>
+    </ROW>
+    <ROW ROWNUM="4">
+      <CODE>420006424</CODE>
+      <BARCODE>420006424</BARCODE>
+      <NAME>Унітаз-компакт COLOMBO Коломбо NEW н/п, 3/6л, к/с+кришка</NAME>
+      <UNITCD>3</UNITCD>
+      <UNITNM>к-т</UNITNM>
+      <AMOUNT>1.000</AMOUNT>
+      <PRICE>2139.00</PRICE>
+      <LETTERS>A</LETTERS>
+      <COST>2139.00</COST>
+      <DISCOUNTSUM>0.00</DISCOUNTSUM>
+    </ROW>
+    <ROW ROWNUM="5">
+      <CODE>606007381</CODE>
+      <BARCODE>606007381</BARCODE>
+      <NAME>Змішувач д/ванни GROSSE GR-ND-401, довг.пл.гусак, важіль</NAME>
+      <UNITCD>1</UNITCD>
+      <UNITNM>шт</UNITNM>
+      <AMOUNT>1.000</AMOUNT>
+      <PRICE>1161.00</PRICE>
+      <LETTERS>A</LETTERS>
+      <COST>1161.00</COST>
+      <DISCOUNTSUM>0.00</DISCOUNTSUM>
+      <EXCISELABELS>
+        <ROW ROWNUM="1">
+          <EXCISELABEL>wwrewgbfvdv</EXCISELABEL>
+        </ROW>
+        <ROW ROWNUM="2">
+          <EXCISELABEL>dfhteyhnyn76</EXCISELABEL>
+        </ROW>
+        <ROW ROWNUM="3">
+          <EXCISELABEL>fgbhtmjuymfnty6</EXCISELABEL>
+        </ROW>
+      </EXCISELABELS>
+    </ROW>
+  </CHECKBODY>
+</CHECK>

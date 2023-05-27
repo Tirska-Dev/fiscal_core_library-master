@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<CHECK>
+   <CHECKHEAD>
+      <DOCTYPE>100</DOCTYPE>
+      <UID>f80d79ac-98c1-4aa1-8c74-27920c383ac1</UID>
+      <TIN>34554363</TIN>
+      <IPN>123456789020</IPN>
+      <ORGNM>Тестовий платник 4</ORGNM>
+      <POINTNM>Магазин Іван-Тест</POINTNM>
+      <POINTADDR>УКРАЇНА, СУМСЬКА ОБЛ., М. СУМИ, вул. Соборна 1</POINTADDR>
+      <ORDERDATE>26062021</ORDERDATE>
+      <ORDERTIME>155248</ORDERTIME>
+      <ORDERNUM>1987</ORDERNUM>
+      <CASHDESKNUM>24</CASHDESKNUM>
+      <CASHREGISTERNUM>4000066879</CASHREGISTERNUM>
+      <CASHIER>Для РРО № 4000066879</CASHIER>
+      <VER>1</VER>
+   </CHECKHEAD>
+   <CHECKTOTAL>
+      <SUM>10.23</SUM>
+      <DISCOUNTSUM>12.00</DISCOUNTSUM>
+   </CHECKTOTAL>
+   <CHECKPAY>
+      <ROW ROWNUM="1">
+         <PAYFORMCD>1</PAYFORMCD>
+         <PAYFORMNM>ГРОШI</PAYFORMNM>
+         <SUM>999.00</SUM>
+         <PROVIDED>1000.00</PROVIDED>
+         <REMAINS>1.00</REMAINS>
+      </ROW>
+      <ROW ROWNUM="2">
+         <PAYFORMCD>3</PAYFORMCD>
+         <PAYFORMNM>КРЕДИТ</PAYFORMNM>
+         <SUM>3357.39</SUM>
+      </ROW>
+   </CHECKPAY>
+   <CHECKBODY>
+      <ROW ROWNUM="1">
+         <CODE>00919</CODE>
+         <BARCODE>00919</BARCODE>
+         <UKTZED>2203001000</UKTZED>
+         <NAME>Грінберген Бланш 500мл</NAME>
+         <UNITCD>ead0a</UNITCD>
+         <UNITNM>порц</UNITNM>
+         <AMOUNT>1.000</AMOUNT>
+         <PRICE>80.00</PRICE>
+         <LETTERS>М</LETTERS>
+         <COST>80.00</COST>
+         <DISCOUNTSUM>0.00</DISCOUNTSUM>
+      </ROW>
+      <ROW ROWNUM="2">
+         <CODE>01025</CODE>
+         <BARCODE>01025</BARCODE>
+         <UKTZED>2203001000</UKTZED>
+         <NAME>Хата &quot;Диво робить&quot; 500мл</NAME>
+         <UNITCD>47c01</UNITCD>
+         <UNITNM>порц</UNITNM>
+         <AMOUNT>1.000</AMOUNT>
+         <PRICE>70.00</PRICE>
+         <LETTERS>М</LETTERS>
+         <COST>70.00</COST>
+         <DISCOUNTSUM>0.00</DISCOUNTSUM>
+      </ROW>
+   </CHECKBODY>
+</CHECK>

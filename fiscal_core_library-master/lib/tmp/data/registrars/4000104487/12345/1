@@ -1,0 +1,11 @@
+{
+  "date": "Aug 22, 2021, 4:38:57 PM",
+  "registrarId": 4000104487,
+  "localNumber": 1,
+  "fiscalNumber": "12345",
+  "shiftId": "12345",
+  "documentType": "OpenShift",
+  "revoked": false,
+  "canceled": false,
+  "state": "ACCEPTED"
+}

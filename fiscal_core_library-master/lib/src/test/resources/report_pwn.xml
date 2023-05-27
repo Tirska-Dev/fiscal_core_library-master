@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<ZREP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zrep01.xsd">
+  <ZREPHEAD>
+    <UID>d820f9fc-5842-48ee-a737-5af7736566cc</UID>
+    <TIN>34554363</TIN>
+    <IPN>123456789020</IPN>
+    <ORGNM>Тестовий платник 4</ORGNM>
+    <POINTNM>Магазин Іван-Тест</POINTNM>
+    <POINTADDR>УКРАЇНА, СУМСЬКА ОБЛ., М. СУМИ, вул. Соборна 1</POINTADDR>
+    <ORDERDATE>05112021</ORDERDATE>
+    <ORDERTIME>104722</ORDERTIME>
+    <ORDERNUM>4146</ORDERNUM>
+    <CASHDESKNUM>51</CASHDESKNUM>
+    <CASHREGISTERNUM>4000066888</CASHREGISTERNUM>
+    <CASHIER>Для РРО № 4000066888</CASHIER>
+    <VER>1</VER>
+  </ZREPHEAD>
+  <ZREPREALIZ>
+    <SUM>0.00</SUM>
+    <PWNSUMISSUED>930.40</PWNSUMISSUED>
+    <PWNSUMRECEIVED>930.41</PWNSUMRECEIVED>
+    <ORDERSCNT>2</ORDERSCNT>
+    <TAXES>
+      <ROW ROWNUM="1">
+        <TYPE>0</TYPE>
+        <NAME>ПДВ</NAME>
+        <LETTER>Ж</LETTER>
+        <PRC>0.00</PRC>
+        <SIGN>false</SIGN>
+        <TURNOVER>1860.88</TURNOVER>
+        <SOURCESUM>1860.88</SOURCESUM>
+        <SUM>0.00</SUM>
+      </ROW>
+    </TAXES>
+  </ZREPREALIZ>
+  <ZREPBODY>
+    <SERVICEINPUT>0.00</SERVICEINPUT>
+    <SERVICEOUTPUT>0.00</SERVICEOUTPUT>
+  </ZREPBODY>
+</ZREP>
